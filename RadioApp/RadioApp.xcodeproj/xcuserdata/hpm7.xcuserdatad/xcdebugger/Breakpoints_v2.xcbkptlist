@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8D77A667-839C-4A08-A456-41FE17BCB403"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09390CBA-7B89-48D0-B4C5-21C5D68E89EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Screens/SearchVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getCountryList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09390CBA-7B89-48D0-B4C5-21C5D68E89EF - df63302c552a31f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RadioApp.SearchVC.getCountryList() -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Screens/SearchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "09390CBA-7B89-48D0-B4C5-21C5D68E89EF - c7f206f301d2b5d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;RadioApp.Country&gt;, RadioApp.EZError&gt;) -&gt; () in RadioApp.SearchVC.getCountryList() -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Screens/SearchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F14DDDC6-1741-4D2A-A3B9-E2A8AD368C76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Screens/FavoritesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getCacheFromSystem()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23E43A44-0DBD-49E0-B866-800976588D7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Managers/Network Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getRadioStationsByCountry(forCountry:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D90093A-3B8A-4145-AF3F-4EF96046593A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Managers/Network Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getRadioStationsByCountry(forCountry:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D90093A-3B8A-4145-AF3F-4EF96046593A - 72fc27a78e4732ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RadioApp.NetworkManager.getRadioStationsByCountry(forCountry: Swift.String, completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.RadioStation&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "0D90093A-3B8A-4145-AF3F-4EF96046593A - e11cee9578d2f31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RadioApp.NetworkManager.getRadioStationsByCountry(forCountry: Swift.String, completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.RadioStation&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41A8B8C8-B150-4964-AC21-10A8B3C24055"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Managers/Network Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getCountryList(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41A8B8C8-B150-4964-AC21-10A8B3C24055 - b469de6976babe64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RadioApp.NetworkManager.getCountryList(completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.Country&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "41A8B8C8-B150-4964-AC21-10A8B3C24055 - 3645a79d22396a2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RadioApp.NetworkManager.getCountryList(completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.Country&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53182C12-57D0-4F85-A9ED-A481602508D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Managers/Network Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "getLanguageList(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53182C12-57D0-4F85-A9ED-A481602508D7 - 71765e679d952b0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RadioApp.NetworkManager.getLanguageList(completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.Language&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "53182C12-57D0-4F85-A9ED-A481602508D7 - f61f3717db9498c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RadioApp.NetworkManager.getLanguageList(completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.Language&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0FF8C1B-AD12-4962-A03F-CF916912C8B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Managers/Network Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "getTagList(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0FF8C1B-AD12-4962-A03F-CF916912C8B1 - ac4fd655bc19ecdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RadioApp.NetworkManager.getTagList(completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.Tag&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "B0FF8C1B-AD12-4962-A03F-CF916912C8B1 - f65dd42327a7b2f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RadioApp.NetworkManager.getTagList(completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.Tag&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED67E10B-2E78-497C-B156-B490501A56C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RadioApp/Managers/Network Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "getRadioStationsByChoice(forChoice:forScope:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED67E10B-2E78-497C-B156-B490501A56C0 - ff6eb3f35e7a2d8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RadioApp.NetworkManager.getRadioStationsByChoice(forChoice: Swift.String, forScope: Swift.Int, completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.RadioStation&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "1709">
+               </Location>
+               <Location
+                  uuid = "ED67E10B-2E78-497C-B156-B490501A56C0 - 9d6d93711f929533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RadioApp.NetworkManager.getRadioStationsByChoice(forChoice: Swift.String, forScope: Swift.Int, completed: (Swift.Result&lt;Swift.Array&lt;RadioApp.RadioStation&gt;, RadioApp.EZError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RadioApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hpm7/Documents/Learning/RadioApp/RadioApp/Managers/Network%20Manager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
